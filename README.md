@@ -1,2 +1,4 @@
 # kelliehannonevents
-## http://www.kelliehannon.com
+## "Coming Soon" Design
+
+Link: http://www.kelliehannon.com
